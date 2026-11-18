@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+type: dataset
+title: "Horse red-light hoof and leg products: published specifications, AI answer audit and evidence register, November 2026 (Nicker), v1.0.0"
+authors:
+  - name: "Nicker"
+  - family-names: "Erin"
+    given-names: "Muhammed Veysel"
+    orcid: "https://orcid.org/0009-0004-2368-3622"
+version: "1.0.0"
+doi: "10.5281/zenodo.24352070"
+date-released: "2026-11-18"
+license: CC-BY-4.0
